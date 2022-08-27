@@ -1,4 +1,4 @@
-# Quriverse-frontend🚀⚡❤️‍🔥
+# Quriverse-assignment-frontend🚀⚡❤️‍🔥
 
 ## ⚡Screen Shots
 ![image](https://user-images.githubusercontent.com/70385414/187011185-42d2a923-112f-4990-bdf8-7f5e5054180c.png)
